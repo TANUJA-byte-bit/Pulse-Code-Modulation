@@ -1,3 +1,5 @@
+# NAME: TANUJA S
+# REGISTER NO: 212224060277
 # Pulse-Code-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
@@ -129,10 +131,11 @@ plt.show()
 ```
 # Output Waveform
 # PCM
-<img width="1076" height="885" alt="image" src="https://github.com/user-attachments/assets/233f66bd-c395-4695-9fda-78fd169b958e" />
+<img width="976" height="887" alt="image" src="https://github.com/user-attachments/assets/63973e49-c772-4e52-99bf-c30368db5386" />
+
 
 # DM
-<img width="1079" height="532" alt="image" src="https://github.com/user-attachments/assets/ed116fdf-5fb5-4fe7-a7d3-09b1be14fbf2" />
+<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/6c8bcb3f-3835-41d7-8e89-73c27b7441ef" />
 
 # Results
 
