@@ -1,6 +1,6 @@
 # NAME: TANUJA S
 # REGISTER NO: 212224060277
-# Pulse-Code-Modulation
+# Pulse-Code-Modulation And Delta-Code-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
@@ -72,7 +72,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-# DM 
+# DPCM 
 ```
 import numpy as np
 import matplotlib.pyplot as plt
